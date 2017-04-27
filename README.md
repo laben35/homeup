@@ -1,9 +1,14 @@
 [![Build Status](https://travis-ci.org/laben35/homeup.svg?branch=master)](https://travis-ci.org/laben35/homeup)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1c06118c20240f0a54e9ec0bb001783)](https://www.codacy.com/app/laben35/homeup?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laben35/homeup&amp;utm_campaign=Badge_Grade)
-# homeup
+[![npm](https://img.shields.io/npm/dt/homeup.svg)]()
 
-this package offert simple popup solution, determining levels with different color.
-it allow to inform users about website activity then listen their reaction
+
+
+A Popup: Small secondary window that opens with or without user prompt when it accesses a web page. 
+It can contain, among other things, the message of software reporting an event:, end a transaction, receipt of an e-mail message, or to display contextual information, but also frequently inserts, a highlight error when browsing to a web site, a help message or possibly an invitation to respond to an online survey.
+Today, most Internet browsers include a blocker pop up designed to eliminate pop ups unsolicited by the user.
+
+# homeup : this package offert simple popup solution, determining levels with different color.
+It allow to inform users about website activity then listen their reaction
 
 code ewample
 basic usage for this composant
